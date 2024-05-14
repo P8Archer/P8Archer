@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @P8Archer
+- 👀 I’m interested in everything about analysing data using different tools.
+- 💞️ This is just a fun journey for me to record my project building.
