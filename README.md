@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @P8Archer
-- 👀 Passionate about analysing data using different tools. Excel, SQL, Python, Power BI/Tableau are ones trying their best to serve me everyday.
-- 💞️ This is just a fun journey for me to record my project building.
+- 👀 Passionate about analysing data using different tools. Excel, SQL, Python, Power BI/Tableau are all my friends.
+- 💞️ This is gonna to be a fun journey to see how some of the interesting projects built over time.
